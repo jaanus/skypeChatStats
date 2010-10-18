@@ -1,0 +1,12 @@
+Chat statistics for {{ meta.startFormatted }}-{{ meta.endFormatted }}
+
+By message count:
+{% for chatter in topCounts %}{{ chatter.msgCount }}   {{ chatter.fromDisplayName }}
+{% endfor %}
+By text length:
+{% for chatter in topChars %}{{ chatter.charCount }}   {{ chatter.fromDisplayName }}
+{% endfor %}
+By posted links:
+{% for chatter in topUrls %}{{ chatter.urlCount }}   {{ chatter.fromDisplayName }}
+{% endfor %}
+Total traffic: {{ meta.totalTraffic|filesizeformat }}
