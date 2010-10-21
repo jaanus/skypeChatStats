@@ -22,6 +22,41 @@ For example:
 
 You can get the chat name in any Skype chat if you enter the message "/chatname" (without quotes) and you get a magic response with the name.
 
+## Example output
+
+	Chat statistics for 1.1.2007–31.12.2008
+
+	By message count:
+	  8235   Al Bino
+	  4925   Al Fresco
+	  4111   Amanda Lynn
+	  2947   Barb Dwyer
+	  2904   Barry Cade
+	  2881   Bea Minor
+	  2852   Bill Board
+
+	By text length:
+	404819   Bill Loney
+	328649   Billy Rubin
+	216267   Bud Light
+	175678   Dan D. Lyons
+	165080   Dick Bush
+	155606   Dick Tator
+	154309   Dilbert Pickles
+	134121   Don Key
+
+	By posted links:
+	  1063   Doug Graves
+	  1038   Dr. Butcher
+	   525   Dr. Kauff
+	   403   Earl E. Bird
+	   385   Fanny O'Rear
+	   365   Gene Poole
+	   341   Helen Back
+	   316   Herb Rice
+
+	Total traffic: 210 KB
+
 ## Misc notes
 
 The latest Skype4Py version is hard to find. [The files are here](http://sourceforge.net/projects/skype4py/files/) but there’s no "homepage" to speak of. So I bundled it just in case.
