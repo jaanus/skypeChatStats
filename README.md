@@ -20,7 +20,7 @@ For example:
 
     skypeChatStats.py -s "2010-01-01" -e "2010-04-01" -c "#example/$8947847abcd"
 
-You can get the chat name in any Skype chat if you enter the message "/chatname" (without quotes) and you get a magic response with the name.
+You can get the chat name in any Skype chat if you enter the message "/showname" (without quotes) and you get a magic response with the name.
 
 ## Example output
 
