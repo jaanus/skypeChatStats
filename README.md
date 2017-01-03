@@ -1,5 +1,7 @@
 # SkypeChatStats
 
+**This script is very old and probably stopped working a long time ago. It is obsolete and unmaintained, provided here only for historical interest.**
+
 A Python script to talk with Skype API to show top chatters in a chat for a given period.
 
 Jaanus Kase, <http://www.jaanuskase.com>
